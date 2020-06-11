@@ -1,0 +1,11 @@
+/*type selector*/
+body {background-color: black;}
+
+/*id selector*/
+#heading{color: red;
+        font-size: 25px;
+        }
+ /* class selector */
+.paragraph{color: silver;
+           font-size: 15px;
+            }
